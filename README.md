@@ -1,15 +1,15 @@
-[![MasterHead][https://www.google.com/url?sa=i&url=https%3A%2F%2Fetechsc.com%2Fsenior-software-test-engineer-or-senior-qa-engineer%2F&psig=AOvVaw3a_e8A9lf06sRn4GzjaMee&ust=1721453428087000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDT84GwsocDFQAAAAAdAAAAABAE])
+[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fetechsc.com%2Fsenior-software-test-engineer-or-senior-qa-engineer%2F&psig=AOvVaw3a_e8A9lf06sRn4GzjaMee&ust=1721453428087000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDT84GwsocDFQAAAAAdAAAAABAE])
 <h1 align="center">Hi 👋, I'm Vishwadip Khairnar</h1>
-<h3 align="center">A passionate Full Stack Python Developer from India.</h3>
+<h3 align="center">A passionate Software Test Engineer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwadip-1997&label=Profile%20views&color=0e75b6&style=flat" alt="vishwadip-1997" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@vishwadip13" target="blank"><img src="https://img.shields.io/twitter/follow/@vishwadip13?logo=twitter&style=for-the-badge" alt="@vishwadip13" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript,React js**
+- 🌱 I’m currently learning **Selenium with Testng Framework**
 
-- 💬 Ask me about **Full Stack Developer, Backend Developer, Application Developer.**
+- 💬 Ask me about **Software Test Engineer , Quality Analyst ,Quality Assurance .**
 
 - 📫 How to reach me **vishwadipkhairnar2823@gmail.com**
 
