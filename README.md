@@ -1,4 +1,4 @@
-[![MasterHead](https://www.ekascloud.com/public/uploads/img/news/img8d93b8870f1b00dea9c4dfa13593c586.png)
+[![MasterHead][https://www.google.com/url?sa=i&url=https%3A%2F%2Fetechsc.com%2Fsenior-software-test-engineer-or-senior-qa-engineer%2F&psig=AOvVaw3a_e8A9lf06sRn4GzjaMee&ust=1721453428087000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDT84GwsocDFQAAAAAdAAAAABAE])
 <h1 align="center">Hi 👋, I'm Vishwadip Khairnar</h1>
 <h3 align="center">A passionate Full Stack Python Developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
