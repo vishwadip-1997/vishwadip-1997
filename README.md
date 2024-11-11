@@ -1,6 +1,6 @@
 [![MasterHead]([https://d2ms8rpfqc4h24.cloudfront.net/hire_software_qa_engineer_3f2ad8a9d1.jpg])
 <h1 align="center">Hi 👋, I'm Vishwadip Khairnar</h1>
-<h3 align="center">A passionate Software Test Engineer from India.</h3>
+<h3 align="center">A passionate Software Engineer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwadip-1997&label=Profile%20views&color=0e75b6&style=flat" alt="vishwadip-1997" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Selenium with Testng Framework**
 
-- 💬 Ask me about **Software Test Engineer , Quality Analyst ,Quality Assurance .**
+- 💬 Ask me about **Software  Engineer , Software Developer.**
 
 - 📫 How to reach me **vishwadipkhairnar2823@gmail.com**
 
